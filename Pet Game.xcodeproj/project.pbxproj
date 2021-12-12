@@ -7,18 +7,41 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6B38D9B327614B3E00DF829B /* Launch Screen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6B38D9B227614B3E00DF829B /* Launch Screen.storyboard */; };
+		6B44EDDA276121C300C48E43 /* PermanentMarker-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6B44EDD9276121C300C48E43 /* PermanentMarker-Regular.ttf */; };
+		6B57337A275E59AD001E48FF /* SquareView2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B573379275E59AD001E48FF /* SquareView2.swift */; };
+		6B57337C275E5B40001E48FF /* PetGameModel2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B57337B275E5B40001E48FF /* PetGameModel2.swift */; };
 		6BC5DC5627399ABB00BFE4AC /* Pet_GameApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BC5DC5527399ABB00BFE4AC /* Pet_GameApp.swift */; };
 		6BC5DC5827399ABB00BFE4AC /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BC5DC5727399ABB00BFE4AC /* ContentView.swift */; };
 		6BC5DC5A27399ABB00BFE4AC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6BC5DC5927399ABB00BFE4AC /* Assets.xcassets */; };
 		6BC5DC5D27399ABB00BFE4AC /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6BC5DC5C27399ABB00BFE4AC /* Preview Assets.xcassets */; };
+		6BC5DC6427399B2E00BFE4AC /* PetGameModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BC5DC6327399B2E00BFE4AC /* PetGameModel.swift */; };
+		6BC5DC6627399B5100BFE4AC /* SquareView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BC5DC6527399B5100BFE4AC /* SquareView.swift */; };
+		6BE31663273BDA51006F7C98 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BE31662273BDA51006F7C98 /* HomeView.swift */; };
+		6BE31665273BE0FC006F7C98 /* ContentView2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BE31664273BE0FC006F7C98 /* ContentView2.swift */; };
+		6BEC0A1A275FE5C900F4A1DA /* pig.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6BEC0A19275FE5C900F4A1DA /* pig.mp3 */; };
+		6BEC0A1C275FE77A00F4A1DA /* PlaySoung.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BEC0A1B275FE77A00F4A1DA /* PlaySoung.swift */; };
+		6BEC0A1E275FEB5E00F4A1DA /* dog.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6BEC0A1D275FEB5E00F4A1DA /* dog.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		6B38D9B227614B3E00DF829B /* Launch Screen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = "Launch Screen.storyboard"; sourceTree = "<group>"; };
+		6B44EDD9276121C300C48E43 /* PermanentMarker-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "PermanentMarker-Regular.ttf"; sourceTree = "<group>"; };
+		6B44EDDB2761250100C48E43 /* Pet-Game-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = "Pet-Game-Info.plist"; sourceTree = SOURCE_ROOT; };
+		6B573379275E59AD001E48FF /* SquareView2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SquareView2.swift; sourceTree = "<group>"; };
+		6B57337B275E5B40001E48FF /* PetGameModel2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PetGameModel2.swift; sourceTree = "<group>"; };
 		6BC5DC5227399ABB00BFE4AC /* Pet Game.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Pet Game.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		6BC5DC5527399ABB00BFE4AC /* Pet_GameApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Pet_GameApp.swift; sourceTree = "<group>"; };
 		6BC5DC5727399ABB00BFE4AC /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		6BC5DC5927399ABB00BFE4AC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6BC5DC5C27399ABB00BFE4AC /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		6BC5DC6327399B2E00BFE4AC /* PetGameModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PetGameModel.swift; sourceTree = "<group>"; };
+		6BC5DC6527399B5100BFE4AC /* SquareView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SquareView.swift; sourceTree = "<group>"; };
+		6BE31662273BDA51006F7C98 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
+		6BE31664273BE0FC006F7C98 /* ContentView2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView2.swift; sourceTree = "<group>"; };
+		6BEC0A19275FE5C900F4A1DA /* pig.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = pig.mp3; sourceTree = "<group>"; };
+		6BEC0A1B275FE77A00F4A1DA /* PlaySoung.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlaySoung.swift; sourceTree = "<group>"; };
+		6BEC0A1D275FEB5E00F4A1DA /* dog.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = dog.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -32,6 +55,52 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		6B44EDDC2761284E00C48E43 /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				6B44EDD9276121C300C48E43 /* PermanentMarker-Regular.ttf */,
+			);
+			path = Fonts;
+			sourceTree = "<group>";
+		};
+		6B44EDDD2761286300C48E43 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				6BEC0A1B275FE77A00F4A1DA /* PlaySoung.swift */,
+				6BEC0A1D275FEB5E00F4A1DA /* dog.mp3 */,
+				6BEC0A19275FE5C900F4A1DA /* pig.mp3 */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		6B573374275E4CA8001E48FF /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				6BE31662273BDA51006F7C98 /* HomeView.swift */,
+				6BE31664273BE0FC006F7C98 /* ContentView2.swift */,
+				6BC5DC5727399ABB00BFE4AC /* ContentView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		6B573375275E4CB5001E48FF /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				6B57337B275E5B40001E48FF /* PetGameModel2.swift */,
+				6BC5DC6327399B2E00BFE4AC /* PetGameModel.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		6B573376275E4CC1001E48FF /* ModelViews */ = {
+			isa = PBXGroup;
+			children = (
+				6BC5DC6527399B5100BFE4AC /* SquareView.swift */,
+				6B573379275E59AD001E48FF /* SquareView2.swift */,
+			);
+			path = ModelViews;
+			sourceTree = "<group>";
+		};
 		6BC5DC4927399ABB00BFE4AC = {
 			isa = PBXGroup;
 			children = (
@@ -51,10 +120,16 @@
 		6BC5DC5427399ABB00BFE4AC /* Pet Game */ = {
 			isa = PBXGroup;
 			children = (
+				6B44EDDD2761286300C48E43 /* Sounds */,
+				6B44EDDC2761284E00C48E43 /* Fonts */,
+				6B44EDDB2761250100C48E43 /* Pet-Game-Info.plist */,
+				6B573376275E4CC1001E48FF /* ModelViews */,
+				6B573375275E4CB5001E48FF /* Models */,
+				6B573374275E4CA8001E48FF /* Views */,
 				6BC5DC5527399ABB00BFE4AC /* Pet_GameApp.swift */,
-				6BC5DC5727399ABB00BFE4AC /* ContentView.swift */,
 				6BC5DC5927399ABB00BFE4AC /* Assets.xcassets */,
 				6BC5DC5B27399ABB00BFE4AC /* Preview Content */,
+				6B38D9B227614B3E00DF829B /* Launch Screen.storyboard */,
 			);
 			path = "Pet Game";
 			sourceTree = "<group>";
@@ -83,6 +158,8 @@
 			dependencies = (
 			);
 			name = "Pet Game";
+			packageProductDependencies = (
+			);
 			productName = "Pet Game";
 			productReference = 6BC5DC5227399ABB00BFE4AC /* Pet Game.app */;
 			productType = "com.apple.product-type.application";
@@ -111,6 +188,8 @@
 				Base,
 			);
 			mainGroup = 6BC5DC4927399ABB00BFE4AC;
+			packageReferences = (
+			);
 			productRefGroup = 6BC5DC5327399ABB00BFE4AC /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -125,8 +204,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6BEC0A1A275FE5C900F4A1DA /* pig.mp3 in Resources */,
 				6BC5DC5D27399ABB00BFE4AC /* Preview Assets.xcassets in Resources */,
 				6BC5DC5A27399ABB00BFE4AC /* Assets.xcassets in Resources */,
+				6B44EDDA276121C300C48E43 /* PermanentMarker-Regular.ttf in Resources */,
+				6BEC0A1E275FEB5E00F4A1DA /* dog.mp3 in Resources */,
+				6B38D9B327614B3E00DF829B /* Launch Screen.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -139,6 +222,13 @@
 			files = (
 				6BC5DC5827399ABB00BFE4AC /* ContentView.swift in Sources */,
 				6BC5DC5627399ABB00BFE4AC /* Pet_GameApp.swift in Sources */,
+				6B57337A275E59AD001E48FF /* SquareView2.swift in Sources */,
+				6BC5DC6427399B2E00BFE4AC /* PetGameModel.swift in Sources */,
+				6B57337C275E5B40001E48FF /* PetGameModel2.swift in Sources */,
+				6BEC0A1C275FE77A00F4A1DA /* PlaySoung.swift in Sources */,
+				6BE31665273BE0FC006F7C98 /* ContentView2.swift in Sources */,
+				6BE31663273BDA51006F7C98 /* HomeView.swift in Sources */,
+				6BC5DC6627399B5100BFE4AC /* SquareView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -266,15 +356,20 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"Pet Game/Preview Content\"";
 				DEVELOPMENT_TEAM = UXC7U9N9AB;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Pet-Game-Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "Emoji Pet Game";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = "Launch Screen";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -286,7 +381,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -295,15 +390,20 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"Pet Game/Preview Content\"";
 				DEVELOPMENT_TEAM = UXC7U9N9AB;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Pet-Game-Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "Emoji Pet Game";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = "Launch Screen";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -315,7 +415,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
